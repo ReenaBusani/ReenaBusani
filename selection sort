@@ -11,4 +11,4 @@ array = [17,11,10,14,7]
 print("The sorted array is: ", selectionsort(array))  
 
 OUTPUT:-
-The sorted array is:  [10,13 8,2,14]
+The sorted array is:  [7,10,11,14,17]
